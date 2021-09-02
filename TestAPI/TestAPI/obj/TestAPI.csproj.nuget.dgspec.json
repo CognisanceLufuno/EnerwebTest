@@ -1,0 +1,183 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\TestAPI\\TestAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj",
+        "projectName": "DataAccessLogic",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DomainManager\\DomainManager.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DomainManager\\DomainManager.csproj",
+        "projectName": "DomainManager",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DomainManager\\DomainManager.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj",
+        "projectName": "DomainObjects",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\TestAPI\\TestAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\TestAPI\\TestAPI.csproj",
+        "projectName": "TestAPI",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\TestAPI\\TestAPI.csproj",
+        "packagesPath": "C:\\Users\\t60008865\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\TestAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t60008865\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://slbappprd128v.stanlibdirectory.com/Online.Nuget.Server/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccessLogic\\DataAccessLogic\\DataAccessLogic.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DomainManager\\DomainManager.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DomainManager\\DomainManager.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Domain\\DomainObjects.csproj"
+              },
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.1.5, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj",
+        "projectName": "Utilities",
+        "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\Utilities\\Utilities.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\t60008865\\Documents\\GitHub\\Enerweb\\TestAPI\\DataAccess\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qIfquv5DG3IyabsiIS3GVU7/3LTP6BVJ/Lp5Op6EJkO4w+f3OB6rfAfXNcfHWgOZGcjsgDKl0MbfaCn6IjvLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\t60008865\\Dropbox\\01.Mulaudzi\\PlayGround\\Enerweb\\TestAPI\\DataAccess\\DataAccessOld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\t60008865\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

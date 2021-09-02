@@ -1,0 +1,5 @@
+C:\Users\t60008865\Dropbox\01.Mulaudzi\PlayGround\Enerweb\TestAPI\DataAccess\bin\Debug\netstandard2.0\Lufuno.DataAccess.deps.json
+C:\Users\t60008865\Dropbox\01.Mulaudzi\PlayGround\Enerweb\TestAPI\DataAccess\bin\Debug\netstandard2.0\Lufuno.DataAccess.dll
+C:\Users\t60008865\Dropbox\01.Mulaudzi\PlayGround\Enerweb\TestAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\t60008865\Dropbox\01.Mulaudzi\PlayGround\Enerweb\TestAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\t60008865\Dropbox\01.Mulaudzi\PlayGround\Enerweb\TestAPI\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
